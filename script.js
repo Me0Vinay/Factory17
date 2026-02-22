@@ -5,8 +5,8 @@ let cart = [];
 let searchDebounceTimer = null;
 
 // ===== CACHE CONFIGURATION =====
-const CACHE_KEY = 'century17_products_cache';
-const CACHE_TIME_KEY = 'century17_products_cache_time';
+const CACHE_KEY = 'factory17_products_cache';
+const CACHE_TIME_KEY = 'factory17_products_cache_time';
 const CACHE_TTL = 12 * 60 * 60 * 1000; // 12 hours in milliseconds
 
 // ===== CACHE FUNCTIONS =====
@@ -409,13 +409,13 @@ function clearAllFilters() {
 
 // ===== CART MANAGEMENT =====
 function loadCart() {
-    const saved = localStorage.getItem('century17_cart');
+    const saved = localStorage.getItem('factory17_cart');
     cart = saved ? JSON.parse(saved) : [];
     updateCartUI();
 }
 
 function saveCart() {
-    localStorage.setItem('century17_cart', JSON.stringify(cart));
+    localStorage.setItem('factory17_cart', JSON.stringify(cart));
     updateCartUI();
     renderProducts();
 }

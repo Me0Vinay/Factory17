@@ -4,7 +4,7 @@ This directory contains sample files to help you get started with your e-commerc
 
 ## 📄 Files Included
 
-### 1. [sample-catalog.csv](file:///Users/vinay/Downloads/17%20Century%20Soft%20toys/sample-catalog.csv)
+### 1. [sample-catalog.csv](sample-catalog.csv)
 **Purpose:** Template Excel/CSV file with 50 sample toy products
 
 **Contents:**
@@ -38,7 +38,7 @@ product_id,sub_product_id,product_name,image_link,size,fabric_type,category_type
 
 ---
 
-### 2. [GOOGLE_SHEETS_SETUP.md](file:///Users/vinay/Downloads/17%20Century%20Soft%20toys/GOOGLE_SHEETS_SETUP.md)
+### 2. [GOOGLE_SHEETS_SETUP.md](GOOGLE_SHEETS_SETUP.md)
 **Purpose:** Complete guide for setting up Google Sheets order tracking
 
 **Contains:**
@@ -150,8 +150,8 @@ The sample catalog uses Unsplash images. For your real products:
 
 ## 📞 Need Help?
 
-- Check [README.md](file:///Users/vinay/Downloads/17%20Century%20Soft%20toys/README.md) for full documentation
-- Review [GOOGLE_SHEETS_SETUP.md](file:///Users/vinay/Downloads/17%20Century%20Soft%20toys/GOOGLE_SHEETS_SETUP.md) for order tracking
+- Check [README.md](README.md) for full documentation
+- Review [GOOGLE_SHEETS_SETUP.md](GOOGLE_SHEETS_SETUP.md) for order tracking
 - Test locally before deploying to GitHub Pages
 
 ---

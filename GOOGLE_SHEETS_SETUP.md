@@ -71,7 +71,7 @@ Example HTML you'll see:
 
 ### Step 4: Update config.js
 
-Open [config.js](file:///Users/vinay/Downloads/17%20Century%20Soft%20toys/config.js) and update:
+Open [config.js](config.js) and update:
 
 ```javascript
 const CONFIG = {

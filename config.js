@@ -16,7 +16,7 @@ const CONFIG = {
     //
     // After setup: Just edit your Google Sheet and refresh the website — products update instantly!
     useGoogleSheets: true,  // Set to true after pasting your sheet URL below
-    googleSheetCSVUrl: 'https://docs.google.com/spreadsheets/d/1y1hXGO8GPXCWBTV8A0OkdnoiOwCuAd9EaVS1WLVp_H0/edit?usp=sharing'
+    googleSheetCSVUrl: 'https://docs.google.com/spreadsheets/d/1y1hXGO8GPXCWBTV8A0OkdnoiOwCuAd9EaVS1WLVp_H0/edit?usp=sharing',
     // ===== GOOGLE FORM (Order Submission) =====
     enableGoogleSheets: true,
 

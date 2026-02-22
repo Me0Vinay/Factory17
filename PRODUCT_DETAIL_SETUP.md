@@ -195,7 +195,7 @@ The same cart is shared between:
 - Cart sidebar
 - Checkout functionality
 
-Cart data is stored in `localStorage` with key: `century17_cart`
+Cart data is stored in `localStorage` with key: `factory17_cart`
 
 **Cart Structure:**
 ```javascript
@@ -245,7 +245,7 @@ Cart data is stored in `localStorage` with key: `century17_cart`
 ## 📚 File Structure
 
 ```
-17 Century Soft toys/
+Factory17 Soft toys/
 ├── index.html                 (Main listing page)
 ├── product-detail.html        (NEW - Detail page)
 ├── script.js                  (Modified - added navigation)
